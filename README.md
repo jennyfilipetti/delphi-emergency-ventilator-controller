@@ -28,7 +28,7 @@ We are publishing our progress towards these goals alongside our own development
 
 ## Contributing
 
-This project is co-led by John Bennett and Jenny Filipetti. We will update this section as we concretize support needs!
+This project is co-led by John Bennett (jkbco@outlook.com) and Jenny Filipetti (jenny.filipetti@gmail.com). We will update this section as we concretize support needs!
 
 ## Other ventilator module projects
 
