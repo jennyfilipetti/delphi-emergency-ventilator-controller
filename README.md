@@ -1,6 +1,6 @@
-# Delphi control system for emergency ventilators
+# Delphi controller for emergency ventilators
 
-The Delphi controller is an opensource device configurable for use in emergency medical ventilators as either a flexible user interface module or as a complete control system with user interface. Delphi is implemented as an oversized custom Arduino shield designed to be agnostic to the details of the air handling mechanism, sensing system, and other mechanical and electrical details of ventilators constructed for emergency use. As such, it is usable in whole or in part within virtually any emergency ventilator design.
+The Delphi controller is an opensource device configurable for use as either a flexible user interface module or as a complete control system (and user interface) in emergency medical ventilators. Delphi is implemented as an oversized custom Arduino shield designed to be agnostic to the details of the air handling mechanism, sensing system, and other mechanical and electrical details of ventilators constructed for emergency use. As such, it is usable in whole or in part within virtually any emergency ventilator design.
 
 ## Design concept
 
