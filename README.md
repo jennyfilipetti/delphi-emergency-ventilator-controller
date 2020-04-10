@@ -18,7 +18,7 @@ Licensed under the GNU General Public License v3.0. All documents and diagrams a
 
 ## Project status
 
-As of this writing, we are currently in the component testing and system development phase. We have concentrated our initial efforts on the design and development of the Delphi controller documented in this specification, which can be used as either a standalone user interface module, or as an integrated control system for emergency medical ventilators.
+As of this writing, we are currently in the component testing and system development phase. We have concentrated our initial efforts on the design and development of the Delphi controller documented in the [Delphi Controller Functional Specification](Delphi_Controller_Functional_Specification.pdf), which can be used as either a standalone user interface module, or as an integrated control system for emergency medical ventilators.
 
 As we begin prototype production and testing, our first objective is to finalize a completely functional user interface controller, including all hardware, software, and supporting materials. We have all materials on hand to manufacture working prototypes of the Delphi control board and hope to begin prototype production and clinician testing of a simulated system by the week of April 13th. 
 
