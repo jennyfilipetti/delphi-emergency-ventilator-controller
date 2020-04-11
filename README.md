@@ -33,3 +33,5 @@ This project is co-led by John Bennett (jkbco@outlook.com) and Jenny Filipetti (
 ## Other ventilator module projects
 
 [Ventmon](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor) is a combined tester/monitor that would help clinicians validate untrusted ventilators in the case of a shortfall of commercial and professional equipment. Its creator [Public Invention](https://www.pubinv.org) is a major advocate of a modularized ecosystem model for ventilator design and is supporting the coordination of community efforts around benchmarking and breath analysis standards in addition to the Ventmon design.
+
+[Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator) by the CSSALT Lab out of University of Florida Health has published rough specifications around a modular ventilator design approach and controller simulator source code.
